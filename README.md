@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 **HI.. My Name iss... violetfkzsec!!**. I like Coding, Gaming, Socializing, and Like More!.
-Um.. this is my account alt, you must have found a little repo, since this is not the main account :3. Awesome, you found this account.
+Um.. this is my main account, this is where I publish my projects..
 
 ## About Me
 
