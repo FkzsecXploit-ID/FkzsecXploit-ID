@@ -5,7 +5,7 @@ Um.. this is my main account, this is where I publish my projects..
 
 ## About Me
 
-- Programming (Primary)
+- Programming (Main)
 - Liked it `Javascript, Python, CyberSec, PHP, Design, NodeJS, Musicly`
 
 ## Links
