@@ -6,7 +6,7 @@ Um.. this is my main account, this is where I publish my projects..
 ## About Me
 
 - Programming (Main)
-- Liked it `Javascript, Python, CyberSec, PHP, Design, NodeJS, Musicly, Editor Video, Photographer, UI/UX Designer, IT`
+- Liked it `Javascript, Python, CyberSec, PHP, Design, NodeJS, Musicly, Editor Video, Graphic Design, Mograph, Videographer, Photographer, UI/UX Designer, IT`
 
 ## Links
 [![YouTube Badge](https://img.shields.io/static/v1?label=|&message=YouTube&color=red&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@fkzz_id?si=2iKh-_gak2JPjffW) [![Telegram Badge](https://img.shields.io/static/v1?label=|&message=Telegram&color=lightblue&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dlp46sec) [![Telegram Badge](https://img.shields.io/static/v1?label=|&message=Telegram2&color=lightblue&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/noxleviathan404) [![TikTok Badge](https://img.shields.io/static/v1?label=|&message=TikTok&color=Gray&style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@fkzsec.id)
